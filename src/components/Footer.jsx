@@ -18,7 +18,7 @@ const Footer = () => {
         <Stack direction={['column', 'row']}>
           <VStack alignItems={'stretch'} w={'full'}>
             <Heading size={'md'} textTransform="uppercase" textAlign={["center","left"]}>
-              Subscribe to get update{' '}
+              Subscribe us to get update
             </Heading>
             <HStack borderBottom={'2px solid white'} py={'2'}>
               <Input
